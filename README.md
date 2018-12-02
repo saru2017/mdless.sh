@@ -1,7 +1,7 @@
 # mdless.sh
 
 pandocとw3cを使ったコマンドラインmarkdown viewer。
-rubyで作られてるmdlessを入れたかったのだけどどうやっても入らないのでpandocとw3mで自作したシェルスクリプト。
+rubyで作られてるmdlessを入れたかったのだけどどうやってもcygwinでうまく動かないのでpandocとw3mで自作したシェルスクリプト。
 
 ```bash
 #!/usr/bin/bash

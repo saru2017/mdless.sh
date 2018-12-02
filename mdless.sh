@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 
 if [ $# -ne 1 ]; then
-    echo "usage: mdless [filename]"
+    echo "usage: $0 [filename]"
     exit
 fi 
 

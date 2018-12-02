@@ -10,7 +10,7 @@ Pandoc for Windows can be downloaded from [Release pandoc 2.5 · jgm/pandoc](htt
 #!/usr/bin/bash
 
 if [ $# -ne 1 ]; then
-    echo "usage: mdless [filename]"
+    echo "usage: $0 [filename]"
     exit
 fi 
 

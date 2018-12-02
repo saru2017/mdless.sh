@@ -1,4 +1,4 @@
-# mdless.sh
+# mdless.sh: mdless like schell script for command line based markdown viewer.
 
 A command line based markdown viewer which uses pandoc and w3c.
 I have tried to install [mdless](https://github.com/ttscoff/mdless) to cygwin environment, but I couldn't.
